@@ -1,6 +1,7 @@
 {
   "spwn":
   {
-    "Beta 0.1": {"path": {"windows": "spwn/windows/beta_0_1.zip"}} 
+    "Beta 0.1": {"path": {"windows": "spwn/windows/beta_0_1.zip"}}
+    "Beta 0.2": {"path": {"windows": "spwn/windows/beta_0_2.zip","mac": "spwn/mac/beta_0_2.zip"}}
   }
 }
