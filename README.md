@@ -1,2 +1,2 @@
 # files_for_scripts
-This repository is for scripts
+This repository is for scripts/code
