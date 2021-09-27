@@ -2,6 +2,11 @@
   "spwn":
   {
     "Beta 0.1": {"path": {"windows": "spwn/windows/beta_0_1.zip"}},
-    "Beta 0.2": {"path": {"windows": "spwn/windows/beta_0_2.zip","mac": "spwn/mac/beta_0_2.zip"}}
+    "Beta 0.2": {"path": {"windows": "spwn/windows/beta_0_2.zip","mac": "spwn/mac/beta_0_2.zip"}},
+    "Beta 0.3": {"path": {"windows": "spwn/windows/beta_0_3.zip","mac": "spwn/mac/beta_0_3.zip"}},
+    "Beta 0.4": {"path": {"windows": "spwn/windows/beta_0_4.zip"}},
+    "Beta 0.5": {"path": {"windows": "spwn/windows/beta_0_5.zip","linux": "spwn/linux/beta_0_5.zip"}},
+    "Beta 0.6": {"path": {"windows": "spwn/windows/beta_0_6.zip","linux": "spwn/linux/beta_0_6.zip"}},
+    "Beta 0.7": {"path": {"windows": "spwn/windows/beta_0_7.zip"}}
   }
 }
