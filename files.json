@@ -1,7 +1,7 @@
 {
   "spwn":
   {
-    "Beta 0.1": {"path": {"windows": "spwn/windows/beta_0_1.zip"},"foldername": "beta_0_1","mainfile": {"windows": "spwn.exe"}},
+    "Beta 0.1": {"path": {"windows": "spwn/windows/beta_0_1.zip"},"foldername": "beta_0_1.zip","mainfile": {"windows": "spwn.exe"}},
     "Beta 0.2": {"path": {"windows": "spwn/windows/beta_0_2.zip","mac": "spwn/mac/beta_0_2.zip"},"foldername": "beta_0_2.zip","mainfile": {"windows": "spwn.exe","mac": "spwn"}},
     "Beta 0.3": {"path": {"windows": "spwn/windows/beta_0_3.zip","mac": "spwn/mac/beta_0_3.zip"},"foldername": "beta_0_3.zip","mainfile": {"windows": "spwn.exe","mac": "spwn"}},
     "Beta 0.4": {"path": {"windows": "spwn/windows/beta_0_4.zip"},"foldername": "beta_0_4.zip","mainfile": {"windows": "spwn.exe"}},
