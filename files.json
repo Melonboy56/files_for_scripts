@@ -10,6 +10,6 @@
     "Beta 0.7": {"path": {"windows": "spwn/windows/beta_0_7.zip"},"foldername": "beta_0_7.zip","mainfile": {"windows": "spwn.exe"}}
   },
   "clang": {
-    "13.0 64 Bit": {"path": {"windows": "clang/windows/13_0_x64.zip"},"foldername": "13_0_x64.zip","mainfile":{"windows":"clang.exe"}
+    "13.0 64 Bit": {"path": {"windows": "clang/windows/13_0_x64.zip"},"foldername": "13_0_x64.zip","mainfile":{"windows":"clang.exe"}}
   }
 }
