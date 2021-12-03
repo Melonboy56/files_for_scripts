@@ -8,5 +8,8 @@
     "Beta 0.5": {"path": {"windows": "spwn/windows/beta_0_5.zip","linux": "spwn/linux/beta_0_5.zip"},"foldername": "beta_0_5.zip","mainfile": {"windows": "spwn.exe","linux": "spwn"}},
     "Beta 0.6": {"path": {"windows": "spwn/windows/beta_0_6.zip","linux": "spwn/linux/beta_0_6.zip"},"foldername": "beta_0_6.zip","mainfile": {"windows": "spwn.exe","linux": "spwn"}},
     "Beta 0.7": {"path": {"windows": "spwn/windows/beta_0_7.zip"},"foldername": "beta_0_7.zip","mainfile": {"windows": "spwn.exe"}}
+  },
+  "clang": {
+    "13.0 64 Bit": {"path": {"windows": "clang/windows/13_0_x64.zip"},"foldername": "13_0_x64.zip","mainfile":{"windows":"clang.exe"}
   }
 }
