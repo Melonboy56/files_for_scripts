@@ -14,8 +14,5 @@
   },
   "python": {
 	"3.10.0 64 Bit": {"path": {"windows": "python/windows/3_10_0_x64.zip"},"foldername": "3_10_0_x64.zip","mainfile":{"windows":"python.exe"}}
-  },
-  "dotnet": {
-	 "version": {"path":{"windows":"dotnet/windows/version.zip"},"foldername": "version.zip","mainfile":{"windows":"version.exe"}}
   }
 }
